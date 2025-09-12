@@ -1,6 +1,6 @@
 {
-  "latest_version": "8.3",
-  "minimum_version": "8.3",
+  "latest_version": "8.6",
+  "minimum_version": "8.6",
   "update_required": true,
   "update_message": "A new version of Color Match Madness is available! Please update to continue enjoying the latest features and improvements.",
   "force_update": false 
